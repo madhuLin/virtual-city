@@ -41,7 +41,7 @@
 - [x] 美術館、遊樂場、廣場等場景
 
 ## 說明
-雖然本專案採用`Vue3` + `TypeScript` + `three.js` + `tailwindcss` + `paina` 等技術開發。
+本專案採用`Vue3` + `TypeScript` + `three.js` + `tailwindcss` + `paina` 等技術開發。
 
 ## 目錄結構說明
 ```text
